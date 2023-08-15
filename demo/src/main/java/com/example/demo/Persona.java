@@ -14,6 +14,8 @@ public class Persona {
 
     private String grupoSanguineo;
 
+    private String estatura;
+
     public int getEdad() {
         return edad;
     }
