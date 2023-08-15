@@ -7,4 +7,6 @@ public class Carro {
     private String modelo;
 
     private String lineae;
+
+    private String tipoCombustible;
 }
