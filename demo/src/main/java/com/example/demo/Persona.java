@@ -10,6 +10,8 @@ public class Persona {
 
     private Date fechaNacimiento;
 
+    private String grupoSanguineo;
+
     public int getEdad() {
         return edad;
     }
