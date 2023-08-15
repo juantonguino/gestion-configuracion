@@ -9,8 +9,10 @@ public class Persona {
     private String nombre;
 
     private Date fechaNacimiento;
-
+    
     private String apellidos;
+
+    private String grupoSanguineo;
 
     public int getEdad() {
         return edad;
