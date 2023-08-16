@@ -7,4 +7,6 @@ public class HogarModificado {
     private String direcciion;
 
     private int metrosCuadrados;
+
+    private int estratos;
 }
