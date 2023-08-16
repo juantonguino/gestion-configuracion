@@ -7,4 +7,6 @@ public class Hospital {
     private String nombre;
 
     private String nivel;
+
+    private int catidadEmpleados;
 }
