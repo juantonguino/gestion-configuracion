@@ -9,4 +9,6 @@ public class Ciudad {
     private String departamento;
 
     private String catidadHabitantes;
+
+    private String codigoPostal;
 }
