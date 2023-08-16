@@ -1,6 +1,6 @@
 package com.example.demo;
 
-public class Hogar {
+public class HogarModificado {
 
     private int cantidadHabitaciones;
 
