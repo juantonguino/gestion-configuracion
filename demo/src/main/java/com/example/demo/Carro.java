@@ -7,8 +7,11 @@ public class Carro {
     private String modelo;
 
     private String lineae;
+<<<<<<< HEAD
 
     private String tipoCombustible;
 
     private String color;
+=======
+>>>>>>> 91bb643b
 }

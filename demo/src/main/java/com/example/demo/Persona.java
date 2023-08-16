@@ -9,6 +9,7 @@ public class Persona {
     private String nombre;
 
     private Date fechaNacimiento;
+<<<<<<< HEAD
     
     private String apellidos;
 
@@ -16,6 +17,11 @@ public class Persona {
 
     private String estatura;
 
+=======
+
+    private String apellidos;
+
+>>>>>>> 91bb643b
     public int getEdad() {
         return edad;
     }
