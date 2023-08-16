@@ -7,4 +7,6 @@ public class Ciudad {
     private String ciudad;
 
     private String departamento;
+
+    private String catidadHabitantes;
 }
