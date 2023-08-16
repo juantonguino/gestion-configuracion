@@ -9,4 +9,6 @@ public class Carro {
     private String lineae;
 
     private String tipoCombustible;
+
+    private String color;
 }
